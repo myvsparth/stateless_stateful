@@ -9,7 +9,8 @@ Flutter is all about collection of widgets. Like if you have familiar with other
 Flutter Widget = React Native Components = Ionic Components/Controllers = Android Activities. Everything you made is widget in short.
 Button, Tabs, ListView, Drawer, Gridview etc all are the widgets.
 
-#In short Understanding:
+## In short Understanding:
+
 Stateless widgets are those when you want to make a UI which do not need to be dynamically changed when you update any value bound to it.
 For Eg. You want to make a button whose title need not changed dynamically then you can create a separate widget for button as stateless widget.
 
@@ -18,7 +19,8 @@ For Eg. you want to change the background color of app on click of button then y
 
 Stateful widget can contain another stateless widget and vice versa.
 
-#Example
+## Example
+
 The idea is to create a simple app in which background color will be changed(toggle) when we click on the button.
 
 Steps:
